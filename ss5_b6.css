@@ -1,0 +1,49 @@
+.header{
+    margin-left: 12px;
+    font-size: 20px;
+}
+.align{
+    width: 300px;
+    border-style: solid;
+    border-color:white;
+    color:red;
+    background-color:lightgray;
+}
+.comment{
+    margin-left: 12px;
+}
+.tutorial{
+    margin-top: 12px;
+    width: 600px;
+    text-align: center;
+    border-style: solid;
+    border-color: green;
+    padding: 12px;
+    border-width: 3px;
+    margin-left: 12px;
+}
+.border{
+    width: 625px;
+    padding: 12px;
+    border-style: solid;
+    border-color: white;
+    background-color: lightgrey;
+}
+.border2{
+    width: 600px;
+    border-left-color: greenyellow;
+    border-right-color: white;
+    border-top-color: white;
+    border-bottom-color: white;
+    border-style: solid;
+    background-color: white;
+}
+input{
+    color:white;
+    border-color:lightgrey;
+    background-color: green;
+    width: 120px;
+    height: 35px;
+    padding: 3px;
+    border-radius: 10px;
+}

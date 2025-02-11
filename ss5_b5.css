@@ -1,0 +1,21 @@
+.css-example{
+    margin-top: 12px;
+    border-style: solid;
+    background-color:antiquewhite;
+    border-left-color: yellow;
+    border-bottom-color: antiquewhite;
+    border-top-color: antiquewhite;
+    border-right-color: antiquewhite;
+}
+.text{
+    margin-left: 12px;
+    line-height: 2.5;
+}
+.code{
+    margin-left: 12px;
+    line-height: 1.5;
+}
+.text2{
+    margin-left: 12px;
+    line-height: 2.0;
+}

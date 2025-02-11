@@ -1,0 +1,16 @@
+.name {
+    margin-bottom: 12px;
+    color:white;
+}
+.border {
+    width:500px;
+    border-style: solid;
+    background-color:black;
+    margin-bottom: 12px;
+}
+.summary {
+    color:greenyellow;
+    text-decoration-line:underline;
+    text-decoration-style: dotted;
+    text-decoration-color: aqua;
+}

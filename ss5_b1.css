@@ -1,0 +1,12 @@
+.Welcome {
+    width: 1300px;
+    font-size:20px;
+    border-style: solid;
+    border-color:black;
+    color:white;
+    text-align:center;
+    background-color:black;
+}
+.text {
+    text-align:center;
+}
